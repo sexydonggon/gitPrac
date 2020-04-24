@@ -11,8 +11,7 @@ public class GitPrac {
 
 		System.out.println("난조장");
 		//잘올라가게지
-		
-		System.out.println("22222");
+		System.out.println("11111");
 	}
 
 }
